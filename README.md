@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lâm</h1>
 <h3 align="center">A random shibe on internet</h3>
-<img src="https://i.pinimg.com/originals/fd/b3/7a/fdb37a0be7e6adefc7d00d08b0987563.gif"  width="1000" />
+<img src="https://user-images.githubusercontent.com/14174184/202914260-9f616064-5d78-49d7-a796-52db75a94a50.gif"  width="1000" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibe1302" alt="shibe1302" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibe1302" alt="shibe1302" /></a> </p![ezgif com-gif-maker](https://user-images.githubusercontent.com/14174184/202914242-8c0912fe-07c0-4250-836a-85595c51802d.gif)
+>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/14174184/202914260-9f616064-5d78-49d7-a796-52db75a94a50.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
