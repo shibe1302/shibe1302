@@ -1,10 +1,17 @@
+
 <h1 align="center">Hi 👋, I'm Lâm</h1>
 <h3 align="center">A random shibe on internet</h3>
+<p align="left" text-indent: 30px>    My name is Lam Trinh and I'm a shibe self taught java back-end, I've been learning for 6 months as a web engineer after a flash career in 3D artis and designer. I cameback college to follow IT </p>
+<div class="a">
+<p>
+   In this day and age, IT is definitely the king of all expertises. If you want to change your life, build a better career or contribute to society ..etc you have to be an IT practitioner rather than a banker nor a technician.
+A younger friend of mine, born in 1996. dropped out of Bách Khoa as a mechanical engineer to follow IT. He learned IT by himself and has been working for an American company for 2 years. He only needs to spend 3-4 hours every night to get the job done, monthly salary is about $3k6, but that's not the end of it. His main income is from side projects, 2 or 3 of them every week net him $9-10k in cash, no tax involved. I can only wish.</p>
+</div>
+   my hobbies are playing electric guitar and watching shiba dogs
 <img src="https://user-images.githubusercontent.com/14174184/202914260-9f616064-5d78-49d7-a796-52db75a94a50.gif"  width="1000" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibe1302" alt="shibe1302" /></a> </p![ezgif com-gif-maker](https://user-images.githubusercontent.com/14174184/202914242-8c0912fe-07c0-4250-836a-85595c51802d.gif)
->
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/14174184/202914260-9f616064-5d78-49d7-a796-52db75a94a50.gif)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
