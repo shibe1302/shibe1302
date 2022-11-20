@@ -3,11 +3,17 @@
 <h3 align="center">A random shibe on internet</h3>
 <p align="left" text-indent: 30px>    My name is Lam Trinh and I'm a shibe self taught java back-end, I've been learning for 6 months as a web engineer after a flash career in 3D artis and designer. I cameback college to follow IT </p>
 <div class="a">
-<p>
+<p style=margin-left: 1em;>
    In this day and age, IT is definitely the king of all expertises. If you want to change your life, build a better career or contribute to society ..etc you have to be an IT practitioner rather than a banker nor a technician.
 A younger friend of mine, born in 1996. dropped out of Bách Khoa as a mechanical engineer to follow IT. He learned IT by himself and has been working for an American company for 2 years. He only needs to spend 3-4 hours every night to get the job done, monthly salary is about $3k6, but that's not the end of it. His main income is from side projects, 2 or 3 of them every week net him $9-10k in cash, no tax involved. I can only wish.</p>
 </div>
-   my hobbies are playing electric guitar and watching shiba dogs
+   my hobbies are playing electric guitar and watching shiba video !
+    <p></p>
+   <img src="https://user-images.githubusercontent.com/14174184/202918011-0f2f8243-3af1-4d9c-adbb-a2ffe143523d.gif" height:300px/>
+   <img src="https://user-images.githubusercontent.com/14174184/202918011-0f2f8243-3af1-4d9c-adbb-a2ffe143523d.gif" height:300px/>
+
+   <p></p>
+   
 <img src="https://user-images.githubusercontent.com/14174184/202914260-9f616064-5d78-49d7-a796-52db75a94a50.gif"  width="1000" />
 
 
