@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lâm</h1>
 <h3 align="center">A random shibe on internet</h3>
-<img src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif"  width="4000" />
-
-
+<img src="https://i.pinimg.com/originals/fd/b3/7a/fdb37a0be7e6adefc7d00d08b0987563.gif"  width="1000" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibe1302" alt="shibe1302" /></a> </p>
 
